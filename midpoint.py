@@ -1,5 +1,8 @@
 import math
 
+#the standard formula for the midpoint formula is M[(x1 + x2)\2 ; (y1 + y2)\2]
+#in other scenarios you may be given the midpoint coordinate and expected to calculate the x or y value of point 1 or point 2
+
 #choice 1
 def calcMidpoint (x1 , x2 , y1 , y2) : 
     midpointx = (x1 + x2)/2
